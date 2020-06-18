@@ -1,0 +1,10 @@
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\bin\Debug\11_PA9_Nick.exe.config
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\bin\Debug\11_PA9_Nick.exe
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\bin\Debug\11_PA9_Nick.pdb
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\11_PA9_Nick.csprojAssemblyReference.cache
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\_11_PA9_Nick.Form1.resources
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\_11_PA9_Nick.Properties.Resources.resources
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\11_PA9_Nick.csproj.GenerateResource.cache
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\11_PA9_Nick.csproj.CoreCompileInputs.cache
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\11_PA9_Nick.exe
+C:\Users\weiji\Documents\11_PA9_Nick\11_PA9_Nick\obj\Debug\11_PA9_Nick.pdb
